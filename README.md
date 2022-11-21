@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/introcomponentwithsignupform-ESQlRx_3NJ)
+- Live Site URL: [here](https://jallanoli.github.io/intro-component-with-signup-form/)
 
 ## My process
 
